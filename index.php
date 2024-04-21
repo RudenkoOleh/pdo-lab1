@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <form action="" method="get">
+    <form action="vendor.php" method="get">
         <h2>Goods from vendor</h2>
         <label for="vendor">Vendor</label> <br>
         <select name="vendor" id="vendor">

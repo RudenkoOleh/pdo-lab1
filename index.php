@@ -32,7 +32,7 @@
         <input type="submit" value="Submit">
     </form>
 
-    <form action="" method="get">
+    <form action="category.php" method="get">
         <h2>Goods in Category</h2>
         <label for="category">Category</label> <br>
         <select name="category" id="category">
